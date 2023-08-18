@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Blockchain and Tech generally**
 
-- 📫 How to reach me **abdulqadirfatma@gmail.com**
-
 - ⚡ Fun fact **TechWIzardByDAyArtistByNight in my dreams ;)**
 
 <h3 align="left">Connect with me:</h3>
