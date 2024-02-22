@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Primero3](https://www.primero3.xyz/)
 
-- 🌱 I’m currently learning **Web3 Security.**
+- 🌱 I’m currently exploring **Web3 Security.** check out my security portfolio on github.
 
 - 📝 I regularly write articles on [https://aqfatma.hashnode.dev/](https://aqfatma.hashnode.dev/)
 
